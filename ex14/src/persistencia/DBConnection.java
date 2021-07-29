@@ -18,7 +18,7 @@ public class DBConnection {
                 e.printStackTrace();
             }
         }
-        
+
         return connection;
     }
 }
